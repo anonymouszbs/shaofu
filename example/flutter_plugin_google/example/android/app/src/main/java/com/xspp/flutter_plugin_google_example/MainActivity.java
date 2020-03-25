@@ -18,7 +18,7 @@ import io.flutter.plugins.GeneratedPluginRegistrant;
 
 
 public class MainActivity extends FlutterActivity {
-  private static final String BATTERY_CHANNEL = "com.meetyou.flutter/event";
+  private static final String BATTERY_CHANNEL = "flutter_plugin_guiyin";
   private static final  String CHANNAL = "flutter_plugin_google";
   String guid = "吹牛逼";
   @Override
